@@ -34,4 +34,13 @@
 
 
 #### Chapter 2: “Basic JavaScript Instructions” (pp.53-84)
-- A script is a series of instructions that a computer can follow one-by-one. 
+- <p>A script is a series of instructions that a computer can follow one-by-one. Each individual instructions or step is known as a statement</p>
+- <p>You should write comments to explain what your code does. They help make your code easier to read annd understand. This can help you and others who read your code.</p>
+- <p>A script will have to temporaroily store the bits of information it needs to do its job. It can store this data in variables</p>
+
+##### Chapter 4: “Decisions and Loops” (pp.145-162)
+
+- <p>There are two components to a decision:
+- An expression is evaluated, which returns a value
+- A conditional statement says what to do in a given situation</p?
+- You can evaluate a situation by comparing one value in the script to what you expect it might be. The result will be a boolean: True or false.
