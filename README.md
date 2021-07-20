@@ -25,9 +25,13 @@
 
 
 ### Chapter 10: Ch.10 “Introducing CSS” (pp.226-245)
-- CSS allows you to create rules that control the way that each individual box (and the contents of that box) is presented.
-- Examoles styles:
+- <p>CSS allows you to create rules that control the way that each individual box (and the contents of that box) is presented.</p>
+- <p>Examoles styles:
 - Boxes. Width and height borders(color, width, and style)
-- Text: typeface, size, color, italics, bold, uppercase, lowercase, samll-caps.
-- CSS works by associating rules with HTML elements. These rules gorvern how the content of specified elements should be displayed. A CSS rule contains two parts: a selector and a declaration
-- 
+- Text: typeface, size, color, italics, bold, uppercase, lowercase, samll-caps.</p>
+- <p>CSS works by associating rules with HTML elements. These rules gorvern how the content of specified elements should be displayed. A CSS rule contains two parts: a selector and a declaration</p>
+- <p>CSS declarations sit inside curly brackets and each is made up of twp parts: a property and a value, separated by a colon.</p>
+
+
+#### Chapter 2: “Basic JavaScript Instructions” (pp.53-84)
+- A script is a series of instructions that a computer can follow one-by-one. 
