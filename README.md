@@ -42,5 +42,5 @@
 
 - <p>There are two components to a decision:
 - An expression is evaluated, which returns a value
-- A conditional statement says what to do in a given situation</p?
-- You can evaluate a situation by comparing one value in the script to what you expect it might be. The result will be a boolean: True or false.
+- A conditional statement says what to do in a given situation</p>
+- <p>You can evaluate a situation by comparing one value in the script to what you expect it might be. The result will be a boolean: True or false.</p>
