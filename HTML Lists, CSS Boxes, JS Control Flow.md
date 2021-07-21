@@ -62,6 +62,8 @@ stands for list item.)
   <li>If the condition resolves to false the second code block is run instead.</li>
   <li>A switch statement starts with a variable called the switch value</li>
   <li>Loops check a condition. If it returns true, a code block will run.</li>
+  <li>The condition will be checked again and if it still returns true, the code black will run again</li>
+  <li>It repeats until the condition returns false.
   
    
  
