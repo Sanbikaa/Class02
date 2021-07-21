@@ -31,7 +31,47 @@ stands for list item.)
     <li>border-left-width</li>
     <li>You can control the style of a border using the border-style property. This property can take the following values:</li>
     <li>solid a single solid line</li>
-    <li>dotted a series of square dots</li>
+   <li>dotted a series of square dots</li>
+   <li>dashed a series of short lines</li>
+   <li>double two solid lines (the value of the border-width property creates the sum of the two lines)</li>
+   <li>groove appears to be carved into the page</li>
+   <li>ridge appears to stick out from the page</li>
+   <li>inset appears embedded into the page</li>
+   <li>outset looks like it is coming out of the screen</li>
+   <li>hidden / none no border is shown</li>
+   <li>You can specify the color of a border using either RGB values, hex codes or CSS color names</li>
+ </ul>
+ <hr />
+ <h3>Chapter 2: “Basic JavaScript Instructions” (pp.70-73)</h3>
+ <ul>
+  <li>An array is a special type of variable. It doesn't just store one value; it stores a list of values.</li>
+  <li>You create an array and give it a name just like you would any other variable</li>
+  <li>The Values are assinged to the arry inside a pair of square brackets, and each value is separated by a comma.</li>
+  <li>The values in the array do not need to be the same data type, so you can store a string, a number and a Boolean all in the same array</li>
+  <li>This is known as array literal. It is usually the preferred method for creating an array.</li>
+  <li>Example:</li>
+  <li><p>var colors = new Array("white","black", "custom");</p>
+   <p>var el = document.getElmementById('colors");</p>
+   el.textContent= colors[0];</li>
+ </ul>
+ <hr />
+ <h4>Decisions and Loops” from switch statements on (pp.162-182)</h4>
+ <ul>
+  <li>The if....else statement checks a condition</li>
+  <li>If it resolves to true the first code block is executed</li>
+  <li>If the condition resolves to false the second code block is run instead.</li>
+  <li>A switch statement starts with a variable called the switch value</li>
+  <li>Loops check a condition. If it returns true, a code block will run.</li>
+  
+   
+ 
+   
+
+   
+   
+
+
+
 
 
 
