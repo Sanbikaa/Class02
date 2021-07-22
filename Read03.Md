@@ -33,7 +33,11 @@
  - None: Elements can touch either side.
   <hr />
   <h2>Chapter 3 (first part): “Functions, Methods, and Objects” (pp.86-99 ONLY)</h2>
-  -
+  <ul>
+ <li>Functions & Methods: Functions consist of a series of statements that have been grouped together because they perform a specific task. A method is the same as a function, except methods are created inside (and are part of) an object.</li>
+    <li>Objetcs: objects are made up of properties and methods.</li>
+    <li>Built-In Objects: The browser comes with a set of objects that act like a toolkit for creating interactive web pages.</li>
+    <li>
 
 
 
