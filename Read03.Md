@@ -37,7 +37,14 @@
  <li>Functions & Methods: Functions consist of a series of statements that have been grouped together because they perform a specific task. A method is the same as a function, except methods are created inside (and are part of) an object.</li>
     <li>Objetcs: objects are made up of properties and methods.</li>
     <li>Built-In Objects: The browser comes with a set of objects that act like a toolkit for creating interactive web pages.</li>
-    <li>
+    <li>To create a function, you give it a name and then write the statements needed to achieve its task inside the curly braces. This is known as a function declaration.</li>
+    <li>Sometimes a function needs specific information to perform its task. In such cases, when you declare the function you give it parameters. Inside the function, the parameters act like variables.</li>
+    <li>Some functions return information to the code that called them. For example, when they perform a calculation, they return the result.</li>
+    <li>Functions can return more than one value using an array. For example, this function calculates the area and volume of a box.</li>
+  </ul>
+  <hr />
+  
+    
 
 
 
