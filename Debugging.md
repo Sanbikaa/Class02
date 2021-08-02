@@ -1,0 +1,13 @@
+#  Ch. 10, “Error Handling & Debugging”
+- The JavaScript interpreter uses the concept of execution contexts. There is one global execution context; plus, each function creates a new. new execution context. They correspond to variable scope.
+- Every statement in a script lives in one of three execution contexts:
+- Global context: Code that is in the script, but not in a function. There is only one global context in any page.
+- Function Context: Code that is being run within a function. Each function has its own function context.
+- Eval Context (Not shown): Text is executed like code in an internal function called eval ()
+- Variable Scope The first two execution contexts correspond with the notion of scope
+- Global Scope: If a variable is declared outside a function, it can be used anywhere because it has global scope. 
+- Function-level scope: When a variable is declared within a function, it can only be used within that function. This is because it has function-level scope.
+- The JavaScript interpreter processes one line of code at a time. When a statement needs data from another function, it stacks (or piles) the new function on top of the current task.
+- In the interpreter, each execution context has its own variables object. It holds the variables, functions, and parameters available within it. Each execution context can also access its parent's vari abl es object.
+- If a JavaScript statement generates an error, then it throws an exception. At that point, the interpreter stops and looks for exception-handling code.
+- Error objects can help you find where your mistakes are and browsers have tools to help you read them.
